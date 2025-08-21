@@ -1,4 +1,5 @@
 plugins {
-    id("com.android.application") version "8.0.2" apply false
-    id("org.jetbrains.kotlin.android") version "1.9.0" apply false
+    // Declaramos las versiones de plugins a nivel raíz
+    id("com.android.application") version "8.3.2" apply false
+    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
 }
